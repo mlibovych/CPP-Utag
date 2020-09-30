@@ -1,0 +1,51 @@
+#MainWindow {
+    background-color: #1E1D1D;
+}
+
+#label {
+    color: #F6F4F3;
+	font-weight: bold;
+	font-size: 44px;
+}
+
+#label_2 {
+    color: #1E1D1D;
+	background-color: DarkOrange;
+	font-weight: bold;
+	font-size: 44px;
+	border-radius: 5px;
+}
+
+QPushButton {
+	background-color: #696969;
+	border-radius: 2px;
+    border: 0px;
+}
+
+QPushButton:hover:!pressed
+{
+  	background-color: #72706E;
+}
+
+QTableView
+{
+	alternate-background-color: #565656;
+  	background-color: #696969;
+}
+
+QTreeView
+{
+  	background-color: #696969;
+}
+
+QHeaderView::section {
+ 	background-color: #565656;
+}
+
+QScrollBar {
+ 	background-color: #565656;
+}
+
+QTableView::item:selected {
+	background-color: DarkOrange;
+}

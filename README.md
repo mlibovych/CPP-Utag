@@ -7,8 +7,9 @@ ___
  [Maxim Libovych](https://github.com/mlibovych)
 
 ​
-### Screenshots
- ![utag main](/app/resources/main_utag.png)
+
+### Screenshot:
+ ![Examplw](./example.png)
 ​
 ### Tech/framework used
 ​
